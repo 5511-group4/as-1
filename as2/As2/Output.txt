@@ -1,0 +1,35 @@
+New Node inserted, its value is:45
+New Node inserted, its value is:78
+New Node inserted, its value is:89
+New Node inserted, its value is:32
+New Node inserted, its value is:60
+New Node inserted, its value is:25
+New Node inserted, its value is:39
+New Node inserted, its value is:91
+New Node inserted, its value is:12
+New Node inserted, its value is:34
+New Node inserted, its value is:65
+TraversalInOrderLR start.....
+12
+25
+32
+34
+39
+45
+60
+65
+78
+89
+91
+TraversalInOrderRL start.....
+91
+89
+78
+65
+60
+45
+39
+34
+32
+25
+12
