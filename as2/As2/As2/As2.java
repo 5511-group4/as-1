@@ -29,5 +29,6 @@ public class As2 {
 		//TraversalInOrderRL
 		System.out.println("TraversalInOrderRL start.....");
 		tree.TraversalInOrderRL();
+		//test3
 	   }
 }
